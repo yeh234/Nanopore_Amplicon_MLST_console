@@ -1,0 +1,22 @@
+.DS_Store
+output/
+out/
+
+# Keep figure-specific released outputs under version control.
+!figure3_barcode_screening/output/
+!figure3_barcode_screening/output/**
+!figure5_subsampling/output/
+!figure5_subsampling/output/**
+
+# Keep the local raw FASTQ for private reruns, but do not stage it by default.
+fastq/*.fastq
+fastq/*.fastq.gz
+!fastq/README.md
+
+# Keep the local PubMLST snapshot for private reruns, but do not stage it by default.
+db/*.fas
+db/*.fa
+db/*.fasta
+db/*.txt
+db/DBread.me
+!db/README.md

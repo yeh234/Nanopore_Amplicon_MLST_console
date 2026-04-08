@@ -1,0 +1,8 @@
+# Apple Silicon (arm64) environment for macOS, including M1/M2/M3/M4 Macs.
+name: mlst-only
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - mlst=2.32.2

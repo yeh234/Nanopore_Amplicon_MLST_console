@@ -1,0 +1,7 @@
+slot	left_primer_name	left_primer_seq	right_primer_name	right_primer_seq	status	note
+1	arcC_R	AGGTATCTGCTTCAATCAGCG	aroE_F	ATCGGAAATCCTATTTCACATTC	confirmed	Explicitly shown in the archive primer-design example for barcode 13.
+2	aroE_R	GGTGTTGTATTAATAACGATATC	glpF_F	CTAGGAACTGCAATCTTAATCC	confirmed	Explicitly shown in the archive primer-design example for barcode 14.
+3					missing	Primer anchors for slot 3 are not present in the archive script and must be filled manually.
+4					missing	Primer anchors for slot 4 are not present in the archive script and must be filled manually.
+5	pta_R	GACCCTTTTGTTGAAAAGCTTAA	tpi_F	TCGTTCATTCTGAACGTCGTGAA	confirmed	Explicitly shown in the archive primer-design example for barcode 15.
+6					missing	Primer anchors for slot 6 are not present in the archive script and must be filled manually.

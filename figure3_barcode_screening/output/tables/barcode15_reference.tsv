@@ -1,0 +1,16 @@
+barcode_id	barcode_sequence	slot	source	note
+1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+3	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+4	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+5	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+6	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+7	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+8	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+9	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+10	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+11	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+12	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+14	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+15	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.

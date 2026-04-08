@@ -1,0 +1,5 @@
+source("scripts/01_prepare_public_ligation_data.R")
+source("scripts/02_screen_candidate_barcodes.R")
+source("scripts/03_plot_barcode24_heatmap.R")
+source("scripts/04_generate_or_format_barcode108_panel.R")
+source("scripts/05_export_primer_barcode_design.R")

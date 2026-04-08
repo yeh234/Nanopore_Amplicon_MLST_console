@@ -1,0 +1,13 @@
+# Apple Silicon (arm64) environment for macOS, including M1/M2/M3/M4 Macs.
+name: nanopore-assembly-mlst-macos-arm64
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - flye=2.9.6
+  - bwa=0.7.19
+  - samtools=1.23
+  - minimap2=2.30
+  - medaka=2.2.0
+  - pip

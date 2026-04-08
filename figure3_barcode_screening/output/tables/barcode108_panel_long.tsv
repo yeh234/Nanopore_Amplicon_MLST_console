@@ -1,0 +1,649 @@
+code	num	annotation	slot_label	barcode_id	slot	barcode_sequence	reference_slot	barcode_source	barcode_note
+1-3-5-7-9-11	1	ST45	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-9-11	1	ST45	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-9-11	1	ST45	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-9-11	1	ST45	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-9-11	1	ST45	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-9-11	1	ST45	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-9-11	2	ST239	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-9-11	2	ST239	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-9-11	2	ST239	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-9-11	2	ST239	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-9-11	2	ST239	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-9-11	2	ST239	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-9-11	3	ST239	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-9-11	3	ST239	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-9-11	3	ST239	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-9-11	3	ST239	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-9-11	3	ST239	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-9-11	3	ST239	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-9-11	4	ST239	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-9-11	4	ST239	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-9-11	4	ST239	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-9-11	4	ST239	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-9-11	4	ST239	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-9-11	4	ST239	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-10-11	5	ST59	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-10-11	5	ST59	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-10-11	5	ST59	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-10-11	5	ST59	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-10-11	5	ST59	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-10-11	5	ST59	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-10-11	6	ST59	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-10-11	6	ST59	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-10-11	6	ST59	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-10-11	6	ST59	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-10-11	6	ST59	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-10-11	6	ST59	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-10-11	7	ST59	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-10-11	7	ST59	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-10-11	7	ST59	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-10-11	7	ST59	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-10-11	7	ST59	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-10-11	7	ST59	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-10-11	8	ST5	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-10-11	8	ST5	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-10-11	8	ST5	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-10-11	8	ST5	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-10-11	8	ST5	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-10-11	8	ST5	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-9-12	9	ST5	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-9-12	9	ST5	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-9-12	9	ST5	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-9-12	9	ST5	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-9-12	9	ST5	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-9-12	9	ST5	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-9-12	10	ST5	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-9-12	10	ST5	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-9-12	10	ST5	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-9-12	10	ST5	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-9-12	10	ST5	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-9-12	10	ST5	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-10-12	11	ST239	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-10-12	11	ST239	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-10-12	11	ST239	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-10-12	11	ST239	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-10-12	11	ST239	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-10-12	11	ST239	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-15-11	12	ST7	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-15-11	12	ST7	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-15-11	12	ST7	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-15-11	12	ST7	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-15-11	12	ST7	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-3-5-7-15-11	12	ST7	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-15-12	13	ST59	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-15-12	13	ST59	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-15-12	13	ST59	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-15-12	13	ST59	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-5-7-15-12	13	ST59	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-3-5-7-15-12	13	ST59	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-9-12	14	ST15	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-9-12	14	ST15	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-9-12	14	ST15	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-9-12	14	ST15	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-9-12	14	ST15	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-9-12	14	ST15	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-10-12	15	ST1232	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-10-12	15	ST1232	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-10-12	15	ST1232	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-10-12	15	ST1232	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-10-12	15	ST1232	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-10-12	15	ST1232	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-15-11	16	ST97	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-15-11	16	ST97	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-15-11	16	ST97	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-15-11	16	ST97	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-15-11	16	ST97	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-4-5-7-15-11	16	ST97	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-15-12	17	ST1	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-15-12	17	ST1	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-15-12	17	ST1	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-15-12	17	ST1	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-5-7-15-12	17	ST1	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-4-5-7-15-12	17	ST1	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-9-11	18	ST789	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-9-11	18	ST789	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-14-5-7-9-11	18	ST789	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-9-11	18	ST789	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-9-11	18	ST789	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-9-11	18	ST789	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-9-12	19	ST239	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-9-12	19	ST239	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-14-5-7-9-12	19	ST239	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-9-12	19	ST239	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-9-12	19	ST239	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-9-12	19	ST239	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-10-11	20	ST7	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-10-11	20	ST7	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-14-5-7-10-11	20	ST7	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-10-11	20	ST7	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-10-11	20	ST7	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-10-11	20	ST7	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-10-12	21	ST59	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-10-12	21	ST59	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-14-5-7-10-12	21	ST59	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-10-12	21	ST59	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-10-12	21	ST59	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-10-12	21	ST59	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-15-11	22	ST15	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-15-11	22	ST15	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-14-5-7-15-11	22	ST15	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-15-11	22	ST15	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-15-11	22	ST15	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-14-5-7-15-11	22	ST15	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-15-12	23	ST1232	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-15-12	23	ST1232	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-14-5-7-15-12	23	ST1232	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-15-12	23	ST1232	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-5-7-15-12	23	ST1232	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-14-5-7-15-12	23	ST1232	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-10-12	24	ST97	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-10-12	24	ST97	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-10-12	24	ST97	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-10-12	24	ST97	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-10-12	24	ST97	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-10-12	24	ST97	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-15-11	25	ST1	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-15-11	25	ST1	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-15-11	25	ST1	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-15-11	25	ST1	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-15-11	25	ST1	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-3-5-7-15-11	25	ST1	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-15-12	26	ST789	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-15-12	26	ST789	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-15-12	26	ST789	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-15-12	26	ST789	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-5-7-15-12	26	ST789	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-3-5-7-15-12	26	ST789	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-9-12	27	ST239	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-9-12	27	ST239	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-9-12	27	ST239	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-9-12	27	ST239	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-9-12	27	ST239	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-9-12	27	ST239	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-10-12	28	ST7	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-10-12	28	ST7	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-10-12	28	ST7	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-10-12	28	ST7	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-10-12	28	ST7	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-10-12	28	ST7	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-15-11	29	ST59	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-15-11	29	ST59	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-15-11	29	ST59	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-15-11	29	ST59	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-15-11	29	ST59	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-4-5-7-15-11	29	ST59	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-15-12	30	ST15	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-15-12	30	ST15	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-15-12	30	ST15	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-15-12	30	ST15	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-5-7-15-12	30	ST15	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-4-5-7-15-12	30	ST15	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-9-11	31	ST1232	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-9-11	31	ST1232	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-14-5-7-9-11	31	ST1232	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-9-11	31	ST1232	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-9-11	31	ST1232	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-9-11	31	ST1232	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-9-12	32	ST97	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-9-12	32	ST97	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-14-5-7-9-12	32	ST97	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-9-12	32	ST97	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-9-12	32	ST97	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-9-12	32	ST97	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-10-11	33	ST1	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-10-11	33	ST1	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-14-5-7-10-11	33	ST1	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-10-11	33	ST1	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-10-11	33	ST1	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-10-11	33	ST1	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-10-12	34	ST789	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-10-12	34	ST789	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-14-5-7-10-12	34	ST789	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-10-12	34	ST789	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-10-12	34	ST789	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-10-12	34	ST789	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-9-11	35	ST239	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-3-5-7-9-11	35	ST239	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-9-11	35	ST239	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-9-11	35	ST239	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-9-11	35	ST239	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-9-11	35	ST239	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-9-11	36	ST7	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-4-5-7-9-11	36	ST7	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-9-11	36	ST7	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-9-11	36	ST7	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-9-11	36	ST7	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-9-11	36	ST7	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-9-11	37	ST59	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-5-7-9-11	37	ST59	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-5-7-9-11	37	ST59	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-9-11	37	ST59	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-9-11	37	ST59	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-9-11	37	ST59	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-9-11	38	ST15	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-9-11	38	ST15	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-9-11	38	ST15	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-9-11	38	ST15	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-9-11	38	ST15	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-9-11	38	ST15	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-9-11	39	ST1232	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-9-11	39	ST1232	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-9-11	39	ST1232	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-9-11	39	ST1232	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-9-11	39	ST1232	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-9-11	39	ST1232	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-9-11	40	ST97	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-3-6-8-9-11	40	ST97	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-9-11	40	ST97	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-9-11	40	ST97	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-9-11	40	ST97	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-9-11	40	ST97	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-9-11	41	ST1	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-9-11	41	ST1	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-9-11	41	ST1	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-9-11	41	ST1	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-9-11	41	ST1	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-9-11	41	ST1	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-9-11	42	ST789	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-9-11	42	ST789	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-9-11	42	ST789	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-9-11	42	ST789	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-9-11	42	ST789	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-9-11	42	ST789	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-9-11	43	ST239	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-4-6-8-9-11	43	ST239	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-9-11	43	ST239	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-9-11	43	ST239	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-9-11	43	ST239	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-9-11	43	ST239	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-9-11	44	ST7	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-9-11	44	ST7	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-14-6-8-9-11	44	ST7	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-9-11	44	ST7	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-9-11	44	ST7	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-9-11	44	ST7	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-9-11	45	ST59	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-9-11	45	ST59	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-14-6-8-9-11	45	ST59	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-9-11	45	ST59	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-9-11	45	ST59	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-9-11	45	ST59	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-9-11	46	ST15	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-6-8-9-11	46	ST15	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-6-8-9-11	46	ST15	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-9-11	46	ST15	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-9-11	46	ST15	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-9-11	46	ST15	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-10-11	47	ST1232	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-3-5-7-10-11	47	ST1232	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-10-11	47	ST1232	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-10-11	47	ST1232	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-10-11	47	ST1232	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-10-11	47	ST1232	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-10-11	48	ST97	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-4-5-7-10-11	48	ST97	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-10-11	48	ST97	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-10-11	48	ST97	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-10-11	48	ST97	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-10-11	48	ST97	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-10-11	49	ST1	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-5-7-10-11	49	ST1	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-5-7-10-11	49	ST1	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-10-11	49	ST1	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-10-11	49	ST1	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-10-11	49	ST1	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-10-11	50	ST789	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-10-11	50	ST789	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-10-11	50	ST789	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-10-11	50	ST789	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-10-11	50	ST789	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-10-11	50	ST789	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-10-11	51	ST239	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-10-11	51	ST239	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-10-11	51	ST239	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-10-11	51	ST239	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-10-11	51	ST239	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-10-11	51	ST239	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-10-11	52	ST7	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-3-6-8-10-11	52	ST7	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-10-11	52	ST7	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-10-11	52	ST7	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-10-11	52	ST7	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-10-11	52	ST7	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-10-11	53	ST59	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-10-11	53	ST59	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-10-11	53	ST59	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-10-11	53	ST59	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-10-11	53	ST59	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-10-11	53	ST59	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-10-11	54	ST15	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-10-11	54	ST15	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-10-11	54	ST15	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-10-11	54	ST15	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-10-11	54	ST15	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-10-11	54	ST15	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-10-11	55	ST1232	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-4-6-8-10-11	55	ST1232	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-10-11	55	ST1232	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-10-11	55	ST1232	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-10-11	55	ST1232	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-10-11	55	ST1232	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-10-11	56	ST97	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-10-11	56	ST97	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-14-6-8-10-11	56	ST97	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-10-11	56	ST97	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-10-11	56	ST97	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-10-11	56	ST97	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-10-11	57	ST1	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-10-11	57	ST1	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-14-6-8-10-11	57	ST1	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-10-11	57	ST1	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-10-11	57	ST1	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-10-11	57	ST1	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-10-11	58	ST789	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-6-8-10-11	58	ST789	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-6-8-10-11	58	ST789	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-10-11	58	ST789	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-10-11	58	ST789	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-10-11	58	ST789	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-15-11	59	ST239	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-3-5-7-15-11	59	ST239	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-15-11	59	ST239	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-15-11	59	ST239	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-15-11	59	ST239	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-3-5-7-15-11	59	ST239	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-15-11	60	ST7	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-4-5-7-15-11	60	ST7	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-15-11	60	ST7	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-15-11	60	ST7	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-15-11	60	ST7	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-4-5-7-15-11	60	ST7	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-15-11	61	ST59	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-15-11	61	ST59	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-14-5-7-15-11	61	ST59	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-15-11	61	ST59	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-15-11	61	ST59	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-14-5-7-15-11	61	ST59	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-15-11	62	ST15	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-5-7-15-11	62	ST15	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-5-7-15-11	62	ST15	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-15-11	62	ST15	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-15-11	62	ST15	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-5-7-15-11	62	ST15	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-15-11	63	ST1232	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-15-11	63	ST1232	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-15-11	63	ST1232	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-15-11	63	ST1232	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-15-11	63	ST1232	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-3-6-8-15-11	63	ST1232	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-15-11	64	ST97	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-15-11	64	ST97	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-15-11	64	ST97	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-15-11	64	ST97	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-15-11	64	ST97	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-3-6-8-15-11	64	ST97	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-15-11	65	ST1	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-3-6-8-15-11	65	ST1	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-15-11	65	ST1	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-15-11	65	ST1	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-15-11	65	ST1	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-3-6-8-15-11	65	ST1	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-15-11	66	ST789	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-15-11	66	ST789	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-15-11	66	ST789	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-15-11	66	ST789	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-15-11	66	ST789	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-4-6-8-15-11	66	ST789	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-15-11	67	ST239	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-15-11	67	ST239	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-15-11	67	ST239	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-15-11	67	ST239	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-15-11	67	ST239	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-4-6-8-15-11	67	ST239	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-15-11	68	ST7	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-4-6-8-15-11	68	ST7	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-15-11	68	ST7	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-15-11	68	ST7	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-15-11	68	ST7	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-4-6-8-15-11	68	ST7	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-15-11	69	ST59	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-15-11	69	ST59	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-14-6-8-15-11	69	ST59	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-15-11	69	ST59	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-15-11	69	ST59	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-14-6-8-15-11	69	ST59	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-15-11	70	ST15	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-15-11	70	ST15	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-14-6-8-15-11	70	ST15	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-15-11	70	ST15	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-15-11	70	ST15	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-14-6-8-15-11	70	ST15	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-15-11	71	ST1232	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-6-8-15-11	71	ST1232	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-6-8-15-11	71	ST1232	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-15-11	71	ST1232	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-15-11	71	ST1232	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-6-8-15-11	71	ST1232	pos6	11	6	CTAA	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-9-12	72	ST97	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-3-5-7-9-12	72	ST97	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-9-12	72	ST97	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-9-12	72	ST97	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-9-12	72	ST97	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-9-12	72	ST97	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-9-12	73	ST1	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-4-5-7-9-12	73	ST1	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-9-12	73	ST1	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-9-12	73	ST1	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-9-12	73	ST1	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-9-12	73	ST1	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-9-12	74	ST789	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-5-7-9-12	74	ST789	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-5-7-9-12	74	ST789	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-9-12	74	ST789	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-9-12	74	ST789	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-9-12	74	ST789	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-9-12	75	ST239	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-9-12	75	ST239	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-9-12	75	ST239	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-9-12	75	ST239	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-9-12	75	ST239	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-9-12	75	ST239	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-9-12	76	ST7	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-9-12	76	ST7	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-9-12	76	ST7	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-9-12	76	ST7	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-9-12	76	ST7	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-9-12	76	ST7	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-9-12	77	ST59	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-3-6-8-9-12	77	ST59	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-9-12	77	ST59	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-9-12	77	ST59	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-9-12	77	ST59	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-9-12	77	ST59	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-9-12	78	ST15	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-9-12	78	ST15	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-9-12	78	ST15	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-9-12	78	ST15	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-9-12	78	ST15	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-9-12	78	ST15	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-9-12	79	ST1232	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-9-12	79	ST1232	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-9-12	79	ST1232	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-9-12	79	ST1232	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-9-12	79	ST1232	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-9-12	79	ST1232	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-9-12	80	ST97	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-4-6-8-9-12	80	ST97	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-9-12	80	ST97	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-9-12	80	ST97	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-9-12	80	ST97	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-9-12	80	ST97	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-9-12	81	ST1	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-9-12	81	ST1	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-14-6-8-9-12	81	ST1	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-9-12	81	ST1	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-9-12	81	ST1	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-9-12	81	ST1	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-9-12	82	ST789	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-9-12	82	ST789	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-14-6-8-9-12	82	ST789	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-9-12	82	ST789	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-9-12	82	ST789	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-9-12	82	ST789	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-9-12	83	ST239	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-6-8-9-12	83	ST239	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-6-8-9-12	83	ST239	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-9-12	83	ST239	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-9-12	83	ST239	pos5	9	5	GTTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-9-12	83	ST239	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-10-12	84	ST7	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-3-5-7-10-12	84	ST7	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-10-12	84	ST7	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-10-12	84	ST7	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-10-12	84	ST7	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-10-12	84	ST7	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-10-12	85	ST59	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-4-5-7-10-12	85	ST59	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-10-12	85	ST59	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-10-12	85	ST59	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-10-12	85	ST59	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-10-12	85	ST59	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-10-12	86	ST15	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-5-7-10-12	86	ST15	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-5-7-10-12	86	ST15	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-10-12	86	ST15	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-10-12	86	ST15	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-10-12	86	ST15	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-10-12	87	ST1232	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-10-12	87	ST1232	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-10-12	87	ST1232	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-10-12	87	ST1232	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-10-12	87	ST1232	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-10-12	87	ST1232	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-10-12	88	ST97	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-10-12	88	ST97	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-10-12	88	ST97	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-10-12	88	ST97	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-10-12	88	ST97	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-10-12	88	ST97	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-10-12	89	ST1	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-3-6-8-10-12	89	ST1	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-10-12	89	ST1	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-10-12	89	ST1	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-10-12	89	ST1	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-10-12	89	ST1	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-10-12	90	ST789	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-10-12	90	ST789	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-10-12	90	ST789	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-10-12	90	ST789	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-10-12	90	ST789	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-10-12	90	ST789	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-10-12	91	ST239	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-10-12	91	ST239	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-10-12	91	ST239	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-10-12	91	ST239	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-10-12	91	ST239	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-10-12	91	ST239	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-10-12	92	ST7	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-4-6-8-10-12	92	ST7	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-10-12	92	ST7	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-10-12	92	ST7	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-10-12	92	ST7	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-10-12	92	ST7	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-10-12	93	ST59	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-10-12	93	ST59	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-14-6-8-10-12	93	ST59	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-10-12	93	ST59	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-10-12	93	ST59	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-10-12	93	ST59	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-10-12	94	ST15	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-10-12	94	ST15	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-14-6-8-10-12	94	ST15	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-10-12	94	ST15	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-10-12	94	ST15	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-10-12	94	ST15	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-10-12	95	ST1232	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-6-8-10-12	95	ST1232	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-6-8-10-12	95	ST1232	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-10-12	95	ST1232	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-10-12	95	ST1232	pos5	10	5	ACTA	5	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-10-12	95	ST1232	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-15-12	96	ST97	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-3-5-7-15-12	96	ST97	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-15-12	96	ST97	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-15-12	96	ST97	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-5-7-15-12	96	ST97	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-3-5-7-15-12	96	ST97	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-15-12	97	ST1	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-4-5-7-15-12	97	ST1	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-15-12	97	ST1	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-15-12	97	ST1	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-5-7-15-12	97	ST1	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-4-5-7-15-12	97	ST1	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-15-12	98	ST789	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-15-12	98	ST789	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-14-5-7-15-12	98	ST789	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-15-12	98	ST789	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-5-7-15-12	98	ST789	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-14-5-7-15-12	98	ST789	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-15-12	99	ST239	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-5-7-15-12	99	ST239	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-5-7-15-12	99	ST239	pos3	5	3	CGCC	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-15-12	99	ST239	pos4	7	4	AGAC	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-5-7-15-12	99	ST239	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-5-7-15-12	99	ST239	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-15-12	100	ST7	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-15-12	100	ST7	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-15-12	100	ST7	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-15-12	100	ST7	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-3-6-8-15-12	100	ST7	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-3-6-8-15-12	100	ST7	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-15-12	101	ST59	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-15-12	101	ST59	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-15-12	101	ST59	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-15-12	101	ST59	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-3-6-8-15-12	101	ST59	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-3-6-8-15-12	101	ST59	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-15-12	102	ST15	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-3-6-8-15-12	102	ST15	pos2	3	2	GACC	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-15-12	102	ST15	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-15-12	102	ST15	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-3-6-8-15-12	102	ST15	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-3-6-8-15-12	102	ST15	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-15-12	103	ST1232	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-15-12	103	ST1232	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-15-12	103	ST1232	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-15-12	103	ST1232	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-4-6-8-15-12	103	ST1232	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-4-6-8-15-12	103	ST1232	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-15-12	104	ST97	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-15-12	104	ST97	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-15-12	104	ST97	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-15-12	104	ST97	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-4-6-8-15-12	104	ST97	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-4-6-8-15-12	104	ST97	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-15-12	105	ST1	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-4-6-8-15-12	105	ST1	pos2	4	2	GGGA	2	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-15-12	105	ST1	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-15-12	105	ST1	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-4-6-8-15-12	105	ST1	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-4-6-8-15-12	105	ST1	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-15-12	106	ST789	pos1	1	1	AATG	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-15-12	106	ST789	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-14-6-8-15-12	106	ST789	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-15-12	106	ST789	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+1-14-6-8-15-12	106	ST789	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+1-14-6-8-15-12	106	ST789	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-15-12	107	ST239	pos1	2	1	AACA	1	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-15-12	107	ST239	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-14-6-8-15-12	107	ST239	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-15-12	107	ST239	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+2-14-6-8-15-12	107	ST239	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+2-14-6-8-15-12	107	ST239	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-15-12	108	ST7	pos1	13	1	ATGA	1	legacy_screened_extension	Barcode 13 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-6-8-15-12	108	ST7	pos2	14	2	ATGC	2	legacy_screened_extension	Barcode 14 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-6-8-15-12	108	ST7	pos3	6	3	ACCT	3	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-15-12	108	ST7	pos4	8	4	CAGA	4	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
+13-14-6-8-15-12	108	ST7	pos5	15	5	CCTA	5	legacy_screened_extension	Barcode 15 is explicit in the archive primer block; slot assignment is inferred from the 108-panel workbook.
+13-14-6-8-15-12	108	ST7	pos6	12	6	CCGC	6	legacy_best_barcode_space	Barcode IDs 1-12 follow the best.barcode.space order from the archive script.
