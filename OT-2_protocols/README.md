@@ -48,14 +48,19 @@ Each paper-facing workbook also has a same-named `.csv` export in `datalayout/` 
 
 Uploading CSV files to the OT-2 server:
 
-From the repository root, copy the paper-facing CSV files to the OT-2 Jupyter environment under `/root/script/`. Replace `<OT2-IP>` with the robot IP or hostname used in your local setup.
+From the repository root on your workstation, set `OT2_HOST` to the robot's
+address and copy the paper-facing CSV files to its Jupyter environment.
 
 ```bash
-scp OT-2_protocols/datalayout/paper_10_*.csv root@<OT2-IP>:/root/script/
-ssh root@<OT2-IP> 'ls -1 /root/script/paper_10_*.csv'
+OT2_HOST=your-ot2-host
+scp OT-2_protocols/datalayout/paper_10_*.csv "root@${OT2_HOST}:/root/script/"
+ssh "root@${OT2_HOST}" 'ls -1 /root/script/paper_10_*.csv'
 ```
 
-If your OT-2 setup uses an SSH key, add `-i /path/to/ot2_ssh_key` to both commands. The notebooks assume these CSV files are available in `/root/script/` with the same `paper_10_*.csv` filenames shown above.
+For a specific SSH identity, set `OT2_SSH_KEY` to its local file path and add
+`-i "$OT2_SSH_KEY"` to both commands. The commented upload examples in the
+notebooks use these two workstation settings. The notebooks read the
+`paper_10_*.csv` files from `/root/script/` on the robot.
 
 Historical archive files:
 
