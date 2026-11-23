@@ -20,7 +20,7 @@ force_label_reads_env <- Sys.getenv("FORCE_LABEL_READS", unset = "39,60")
 label_read_min_env <- Sys.getenv("LABEL_READ_MIN", unset = "5")
 label_read_max_env <- Sys.getenv("LABEL_READ_MAX", unset = "15")
 x_axis_label <- Sys.getenv("X_AXIS_LABEL", unset = "Subsampled reads")
-y_axis_label <- Sys.getenv("Y_AXIS_LABEL", unset = "Locus-level correctness")
+y_axis_label <- Sys.getenv("Y_AXIS_LABEL", unset = "Locus-level recovery")
 y_axis_min_env <- Sys.getenv("Y_AXIS_MIN", unset = "0")
 y_axis_max_env <- Sys.getenv("Y_AXIS_MAX", unset = "1")
 
@@ -484,7 +484,9 @@ if (has_zoom_panel && requireNamespace("patchwork", quietly = TRUE)) {
   )
 }
 
-print(plot_object)
+if (interactive()) {
+  print(plot_object)
+}
 
 # =========================
 # 7) save

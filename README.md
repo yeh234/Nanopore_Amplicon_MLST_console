@@ -27,22 +27,26 @@ study.
 
 ## Data availability
 
-### Raw FASTQ
+### Full study FASTQ
 
-The full study raw FASTQ is not distributed in this repository.
+The 128,431 Dorado SUP reads used for the study were deposited in the NCBI
+Sequence Read Archive under BioProject
+[PRJNA1561677](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1561677).
+They were re-basecalled from the retained pass FAST5 files and are the input
+before length filtering and demultiplexing.
 
-If you want to run the full pipeline from raw reads, place a Dorado FASTQ under
-`fastq/` before starting Option A below. See `fastq/README.md` for the expected
-usage of that directory.
+Retrieve the FASTQ from SRA and place it under `fastq/` before starting Option A.
+See [the FASTQ input notes](fastq/README.md) for the expected layout.
 
 ### Public test assets
 
 Two public test assets are included for lightweight verification:
 
-- `demo/Samlst_SUP.demo.fastq.gz`: reduced raw-like demo input
-- `fixtures/downstream_step2_fixture.tar.gz`: exact downstream fixture for testers starting from Step 2
+- `demo/Samlst_SUP.demo.fastq.gz`: subset for a demultiplexing smoke test
+- `fixtures/downstream_step2_fixture.tar.gz`: fixed per-sample reads and expected downstream outputs
 
-For public testing, the downstream fixture is the recommended path because it avoids raw-read upload and gives a stable validation target.
+The fixture's validator compares results against its own reference outputs.
+Table 1 reports read counts from the full study analysis.
 
 ## PubMLST reference data
 
@@ -207,12 +211,16 @@ You can then continue with the same Step 2-4 commands shown above, replacing the
 
 ### Option C. Public Step 2 fixture run
 
-For GitHub users and reviewers, prefer the exact downstream fixture:
+Extract the downstream fixture from the repository root:
 
-- package: `fixtures/downstream_step2_fixture.tar.gz`
-- instructions: `fixtures/downstream_step2_fixture/README.md`
+```bash
+mkdir -p output/fixture_inputs
+tar -xzf fixtures/downstream_step2_fixture.tar.gz -C output/fixture_inputs
+```
 
-This route starts from exact `merged_by_sample/*.fastq.gz` inputs and validates the resulting Step 2-4 outputs with the provided validator.
+Follow `output/fixture_inputs/downstream_step2_fixture/README.md`. This route
+starts from fixed `merged_by_sample/*.fastq.gz` inputs and checks the Step 2-4
+outputs with the included validator.
 
 ## Shiny app
 

@@ -1,4 +1,4 @@
-# Figure5 subsampling
+# Figure 5 subsampling
 
 This release produces the Figure 5 analysis for `sample4` using outputs from the
 main repository workflow.
@@ -49,17 +49,21 @@ Default MLST allele/profile directory for the full pipeline:
 
 - `../db`
 
-Default outputs:
+The direct replot reads the archived genotype table and writes:
 
 - `output/Figure5_sup_5to60_full_r100.pdf`
 - `output/Figure5_sup_5to60_full_r100.png`
 - `output/Figure5_sup_5to60_full_r100_summary.tsv`
+
+Archived inputs for the published-data replot:
+
 - `output/sample4_patch_genotype_result_full_r100.txt`
 - `output/sample4_patch_manifest_full_r100.tsv`
 
-Intermediate files from the full pipeline are written to:
-
-- `output/work`
+The full rerun writes its own genotype table, manifest, summary and figures to
+`../output/figure5_rebuild` in the parent repository. Its intermediate files
+are in the `work/` subdirectory there. Set `OUT_DIR` to choose a different
+destination.
 
 The full pipeline uses the repository-root `../db` by default. You can override
 that location with `MLST_DB_DIR`.
@@ -69,7 +73,7 @@ files.
 
 ## Replot Workflow
 
-The replot workflow requires only:
+The replot workflow uses R with `tidyverse` and `scales`, and reads:
 
 - `output/sample4_patch_genotype_result_full_r100.txt`
 
@@ -80,6 +84,8 @@ The following file is also provided for bookkeeping:
 Note:
 
 - `MAF_revised.R` uses the genotype table only.
+- The replot wrapper sets `EXPECTED_REPLICATES=100` so failed assemblies
+  remain in the denominator even when their genotype rows are absent.
 - The manifest file in `output/` was reconstructed from the archived genotype table because a single archived `sample4_patch_manifest_full_r100.tsv` was not present in `outputold/`.
 
 Optional overrides for the replot script:
@@ -104,10 +110,11 @@ Y_AXIS_MAX=1.02 \
 LABEL_READ_MIN=5 \
 LABEL_READ_MAX=15 \
 FORCE_LABEL_READS=35,45,60 \
+EXPECTED_REPLICATES=100 \
 GUIDE_READ=35 \
-GUIDE_READ_LABEL="Approximate transition into high-correctness range" \
+GUIDE_READ_LABEL="35 reads" \
 GUIDE_READ_SECONDARY=45 \
-GUIDE_READ_SECONDARY_LABEL="All loci >=99% correctness" \
+GUIDE_READ_SECONDARY_LABEL="45 reads: first depth with all loci at 99% or higher" \
 Rscript code/MAF_revised.R
 ```
 
@@ -116,7 +123,7 @@ Rscript code/MAF_revised.R
 Example override pattern for the full pipeline:
 
 ```bash
-OUT_DIR=output \
+OUT_DIR=../output/figure5_rebuild \
 INPUT_FASTQ=../output/01_demultiplex/merged_by_sample/sample4.fastq.gz \
 MLST_DB_DIR=../db \
 FLYE_THREADS=1 \
@@ -135,9 +142,12 @@ explicitly with the environment variables `SEQKIT`, `FLYE`,
 - replicates per read depth: `100`
 - y-axis range: `0` to `1.02`
 - guide lines: `35` and `45` reads
-- guide labels:
-  - `Approximate transition into high-correctness range`
-  - `All loci >=99% correctness`
+- the 35-read guide identifies a reference depth
+- at 45 reads, each of the seven loci first reached at least 99% recovery
+  individually. The complete profile was recovered in 98 of 100 replicates
+  at that depth, compared with 93 of 100 at 35 reads. The seven panels show
+  per-locus recovery. The guides describe observations for sample 4, and
+  recovery at higher depths fluctuated.
 - percentage labels shown only for:
   - `5-15`
   - `35`
